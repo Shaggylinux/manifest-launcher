@@ -1,0 +1,3 @@
+/home/shaggy/proyecto/CMakeFiles/hola_mundo.dir
+/home/shaggy/proyecto/CMakeFiles/edit_cache.dir
+/home/shaggy/proyecto/CMakeFiles/rebuild_cache.dir
